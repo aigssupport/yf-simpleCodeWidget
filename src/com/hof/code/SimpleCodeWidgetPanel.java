@@ -2,7 +2,7 @@ package com.hof.code;
 
 import com.hof.mi.widgetcanvas.panelcollection.CanvasWidgetPanel;
 import com.hof.mi.widgetcanvas.panelcollection.CanvasWidgetPanelInfo;
-import com.hof.video.VideoWidgetURLSection;
+//import com.hof.video.VideoWidgetURLSection;
 
 public class SimpleCodeWidgetPanel extends CanvasWidgetPanel {
 

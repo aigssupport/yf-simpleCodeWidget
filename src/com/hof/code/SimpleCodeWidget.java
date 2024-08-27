@@ -4,7 +4,7 @@ import com.hof.mi.interfaces.Resource;
 import com.hof.mi.widgetcanvas.panelcollection.CanvasWidgetPanel;
 import com.hof.mi.widgetcanvas.panelcollection.CanvasWidgetPanelInfo;
 import com.hof.mi.widgetcanvas.widgettemplate.AbstractCodeTemplate;
-import com.hof.video.VideoWidgetPanel;
+//import com.hof.video.VideoWidgetPanel;
 
 public class SimpleCodeWidget extends AbstractCodeTemplate {
 
